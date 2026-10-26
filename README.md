@@ -34,8 +34,8 @@ Please adhere to this project's [code of conduct](CODE OF CONDUCT.md).
 
 
 ## Our Contributors
-<a href="https://github.com/AyushSarode/Social-media-buttons/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AyushSarode/Social-media-buttons" />
+<a href="https://github.com/AyushSarode/Social-media-buttons.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AyushSarode/Social-media-buttons.github.io" alt="Contributors" />
 </a>
 
 ## 🖊 Feedback
